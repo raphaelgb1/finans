@@ -1,0 +1,12 @@
+.caixa {
+	padding: 60px;
+	border-bottom: 2px solid #e5e5e5;
+}
+
+footer a {
+	margin: 5px 15px 0 0;
+}
+
+#login {
+	height: 600px;
+}
